@@ -1,4 +1,4 @@
-# aws-20gz
+# aws-321sg
 
 Solution Architecture reverse engineering AWS Security Groups with Python
 As a solution architect in the cloud, one of the key areas of focus is security. In AWS, security groups are an essential component of securing your environment. However, managing security groups can be a tedious and time-consuming task, especially when it comes to auditing the inbound rules for multiple EC2 instances.
